@@ -20,3 +20,7 @@ You can click the Preview link to take a look at your changes.
     <p>Description</p>
   </li>
 </ul>
+<br/>
+<h1> 🛠 Technologies that I use: </h1>
+<img align='left' src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+<img align='left' src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">

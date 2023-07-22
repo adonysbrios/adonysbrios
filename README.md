@@ -5,11 +5,18 @@ I'm a software developer and UI/UX designer, I live in Cuba and I have 3 years o
 <br/><br/>
 -🎃 I'm current learning: A little of everything. Nothing specific. <br/>
 -👾 If you wanna know about something, you can ask to me. I enjoy learning, helping and sharing.
-<br/>
+<br/><br/>
 <h1> You can find me at: </h1>
 - Learning in <a href='https://t.me/adonysbrios'>Telegram </a>communities <br/>
-( Sorry for the lack, I don't usually use the networks much 😔)
 <!---
 adonysbrios/adonysbrios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<br/>
+<h1> 🚀 My projects: </h1>
+<ul>
+  <li>
+    <a href=''>Name</a>
+    <p>Description</p>
+  </li>
+</ul>

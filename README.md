@@ -7,7 +7,7 @@ I'm a software developer and UI/UX designer, I live in Cuba and I have 3 years o
 -👾 If you wanna know about something, you can ask to me. I enjoy learning, helping and sharing.
 <br/><br/>
 <h1> You can find me at: </h1>
-- Learning in <a href='https://t.me/adonysbrios'>Telegram </a>communities <br/>
+- Learning in <a href='https://t.me/Newbbie_Dev'>Telegram </a>communities <br/>
 <!---
 adonysbrios/adonysbrios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -16,8 +16,8 @@ You can click the Preview link to take a look at your changes.
 <h1> 🚀 My projects: </h1>
 <ul>
   <li>
-    <a href=''>Name</a>
-    <p>Description</p>
+    <a href='https://github.com/adonysbrios/ModrusLauncher/'>ModrusLauncher</a>
+    <p>Open source Minecraft launcher, with graphical interface and built onOpen source Minecraft launcher, with graphical interface and built on WPF</p>
   </li>
 </ul>
 <br/>
@@ -26,7 +26,6 @@ You can click the Preview link to take a look at your changes.
   <img align='left' src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img align='left' src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align='left' src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img align='left' src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img align='left' src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
   <img align='left' src='https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white'>
   <img align='left' src='https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white'>
@@ -48,7 +47,9 @@ You can click the Preview link to take a look at your changes.
   <img align='left' src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align='left' src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
   <img align='left' src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img align='left' src="https://img.shields.io/badge/dotnet-purple?logo=dotnet">
   <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+  
 </p>
 <p>
   <h1> My stats 🤖</h1>

@@ -7,7 +7,7 @@ I'm a software developer and UI/UX designer, I live in Cuba and I have 3 years o
 -👾 If you wanna know about something, you can ask to me. I enjoy learning, helping and sharing.
 <br/><br/>
 <h1> You can find me at: </h1>
-- Learning in <a href='https://t.me/Newbbie_Dev'>Telegram </a>communities <br/>
+- My <a href='https://t.me/Newbbie_Dev'>Telegram Channel</a> <br/>
 <!---
 adonysbrios/adonysbrios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

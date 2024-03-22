@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 <ul>
   <li>
     <a href='https://github.com/adonysbrios/ModrusLauncher/'>ModrusLauncher</a>
-    <p>Open source Minecraft launcher, with graphical interface and built onOpen source Minecraft launcher, with graphical interface and built on WPF</p>
+    <p>Open source Minecraft launcher, with graphical interface and built on WPF</p>
   </li>
 </ul>
 <br/>

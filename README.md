@@ -17,6 +17,10 @@ I'm a software developer and UI/UX designer, I live in Cuba and I have 3 years o
     <a href='https://github.com/adonysbrios/SweetieJs'>SweetieJs</a>
     <p>SweetieJS is an open-source library for the creation of simple, eye-catching, customizable and non-annoying alerts for the user.</p>
   </li>
+  <li>
+    <a href='https://github.com/ByteBloomTeam/VScode'>VSCode Portfolip</a>
+    <p>A VScode inspired portfolio.</p>
+  </li>
 </ul>
 <br/>
 <h1> 🛠 Technologies that I know: </h1>

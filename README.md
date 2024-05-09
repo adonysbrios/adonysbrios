@@ -6,18 +6,16 @@ I'm a software developer and UI/UX designer, I live in Cuba and I have 3 years o
 -🎃 I'm current learning: A little of everything. Nothing specific. <br/>
 -👾 If you wanna know about something, you can ask to me. I enjoy learning, helping and sharing.
 <br/><br/>
-<h1> You can find me at: </h1>
-- My <a href='https://t.me/Newbbie_Dev'>Telegram Channel</a> <br/>
-<!---
-adonysbrios/adonysbrios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<br/>
+
 <h1> 🚀 My projects: </h1>
 <ul>
   <li>
     <a href='https://github.com/adonysbrios/ModrusLauncher/'>ModrusLauncher</a>
     <p>Open source Minecraft launcher, with graphical interface and built on WPF</p>
+  </li>
+  <li>
+    <a href='https://github.com/adonysbrios/SweetieJs'>SweetieJs</a>
+    <p>SweetieJS is an open-source library for the creation of simple, eye-catching, customizable and non-annoying alerts for the user.</p>
   </li>
 </ul>
 <br/>

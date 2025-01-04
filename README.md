@@ -1,7 +1,7 @@
 <h1> Hi, I'm @adonysbrios 👋</h1>
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/140138535/255315010-3edbd9d7-0822-435f-8682-1bd93e777cd3.png" alt="@adonysbrios" width="100%">
 <h1> A little bit about me </h1>
-I'm a software developer and UI/UX designer, I live in Cuba. I have worked on projects with Django, React Native, Vue, Next.Js and Express.Js. I also have experience with Svelte, Jquery. I like to work in teams and I enjoy learning new things!
+I'm a software developer and UI/UX designer, I live in Cuba. I have worked on projects with Django, React Native, Vue, Next.Js and Express.Js. I also have experience with Svelte and Jquery. (I enjoy learning new things!)
 <br/><br/>
 -🎃 I'm current learning: A little of everything. Nothing specific. <br/>
 -👾 If you wanna know about something, you can ask to me. I enjoy learning, helping and sharing.

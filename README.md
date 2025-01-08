@@ -10,6 +10,10 @@ I'm a software developer and UI/UX designer, I live in Cuba. I have worked on pr
 <h1> 🚀 My projects: </h1>
 <ul>
   <li>
+    <a href='https://confesiones-anonimas.vercel.app/'>Confesiones anonimas, confiesate</a>
+    <p>Secrets. Anonymous. Free.</p>
+  </li>
+  <li>
     <a href='https://github.com/adonysbrios/ModrusLauncher/'>ModrusLauncher</a>
     <p>Open source Minecraft launcher, with graphical interface and built on WPF</p>
   </li>

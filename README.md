@@ -14,6 +14,10 @@ I'm a software developer and UI/UX designer, I live in Cuba. I have worked on pr
     <p>Secrets. Anonymous. Free.</p>
   </li>
   <li>
+    <a href='https://adonysbrios.github.io/competitive-docs.html'>Competitive Docs</a>
+    <p>Competitive Programming algorithms and more (under construction)</p>
+  </li>
+  <li>
     <a href='https://github.com/adonysbrios/ModrusLauncher/'>ModrusLauncher</a>
     <p>Open source Minecraft launcher, with graphical interface and built on WPF</p>
   </li>

@@ -34,6 +34,14 @@ I'm a software developer and UI/UX designer, I live in Cuba. I have worked on pr
     <p>Twitter clone made with Vue and PocketBase</p>
   </li>
   <li>
+    <a href='https://github.com/adonysbrios/chatingBackend'>Chat app backend</a>
+    <p>A simple chat app</p>
+  </li>
+  <li>
+    <a href='https://github.com/adonysbrios/chatingFrontend'>Chat app frontend</a>
+    <p>A simple chat app</p>
+  </li>
+  <li>
     <a href='https://github.com/adonysbrios/vue-and-rick-and-morty'>Rick and Morty Characters</a>
     <p>Rick and Morty Characters app made with Vue and Rick and Morty API.</p>
   </li>
